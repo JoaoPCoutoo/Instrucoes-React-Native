@@ -3,6 +3,7 @@
 Passo 1: Instalando as ferramentas necessárias
 
 1.1 Instalar o Node.js
+
 O Node.js é necessário para rodar o Expo CLI, que é a ferramenta que vamos usar para criar o projeto React Native.
 
 Baixe o Node.js: Acesse aqui e baixe a versão recomendada (LTS)- https://nodejs.org/pt/download
